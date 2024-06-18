@@ -1,4 +1,4 @@
-# AutoML-VLG-PROJEC
+# AutoML-VLG-PROJECT
 Introduction
 Fine-tuning machine learning models is significantly enhanced by hyperparameter optimization. Hyperparameters are adjustable settings that control the model’s learning from data. These settings are fixed before training starts, unlike model parameters which are learned during training. Skilful hyperparameter tuning can greatly boost a model’s performance. The Bayesian Optimization method for hyperparameter refinement is the focus of this document. Additionally, the Tree-structured Parzen Estimator (TPE) method has also been utilized for hyperparameter optimization. A comparison has been made between Hyperopt and Bayesian optimization and TPE optimization techniques, including an analysis of their learning rates.
 

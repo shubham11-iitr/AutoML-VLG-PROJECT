@@ -88,3 +88,7 @@ This code aims to optimize a Random Forest Classifier for predicting outcomes us
   - This involves calculating metrics like ROC-AUC scores and conducting cross-validation to ensure robust evaluation.
 
 Additionally, the code uses the Hyperopt library and the Random Forest Classifier with default parameters to compare the above techniques.
+
+
+
+
